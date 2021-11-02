@@ -1,0 +1,8 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         false;
+  icon-theme:         "Papirus";
+  theme:              "ghost";
+  font:               "hackgen-nerd 9"; 
+}
